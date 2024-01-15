@@ -24,7 +24,7 @@ public class Lab005 {
         char $ = '#';
         char _1 = '#';
 //        char c1 = "A";
-        System.out.println(c2gitgi);
+        System.out.println(c);
         System.out.println(_1);
 
 
