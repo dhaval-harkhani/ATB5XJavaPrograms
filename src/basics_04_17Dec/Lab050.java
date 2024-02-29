@@ -3,7 +3,8 @@ package src.basics_04_17Dec;
 import java.util.Scanner;
 
 public class Lab050 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         // If else
         //  Yes, No
 //        if(true){
